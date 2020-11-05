@@ -1,0 +1,26 @@
+{
+  "name": "open_dragon_init",
+  "version": "0.0.1",
+  "description": "open dragon init",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soldy/openDragonInit.git"
+  },
+  "keywords": [],
+  "author": "Soldy",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/Soldy/openDragonInit/issues"
+  },
+  "homepage": "https://github.com/Soldy/openDragonInit#readme",
+  "devDependencies": {
+
+    "open_dragon_dirs"   : "0.0.1",
+    "interactiveConsole" : "0.0.7-alpha0",
+    "nanoTest"           : "^0.9.9-beta7"
+  }
+}
